@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "Hellraz00r23",
+  "repo": "container-u7bwkk4",
+  "name": "Hellraz00r23",
+  "email": "murnermitchell@gmail.com",
+}
